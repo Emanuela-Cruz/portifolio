@@ -155,5 +155,8 @@ body {
     .apresentacao__links__link {
         width: 300px;  
     }
-   
+
+    .apresentacao__conteudo {
+    width: 50%;  
+    }
 }
