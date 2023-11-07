@@ -153,20 +153,7 @@ body {
     }
 
     .apresentacao__links__link {
-        
-        display: flex;
-        justify-content: center;
-        gap: 16px;
-        width: 378px;
-        text-align: center;
-        border: 2px solid var(--cor-terciaria);
-        border-radius: 8px;
-        font-size: 1.5rem;
-        font-weight: 600;
-        padding: 16px 0;
-        text-decoration: none;
-        color: var(--cor-secundaria);
-        font-family:var(--fonte-secundaria);
+        width: 320px;  
     }
    
 }
