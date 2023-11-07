@@ -151,5 +151,12 @@ body {
         height:auto;
         border-radius:3%;
     }
+
+     .apresentacao__links__link {
+        display: flex;
+        width: 70%;
+        padding: 21.5px 0;
+        
+   }
    
 }
