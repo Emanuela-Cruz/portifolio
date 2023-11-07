@@ -147,17 +147,13 @@ body {
     
     
     .apresentacao__imagem{
-        width: 80%;
+        width: 85%;
         height:auto;
         border-radius:3%;
     }
 
     .apresentacao__links__link {
         width: 300px;  
-    }
-
-    .apresentacao__conteudo__titulo {
-    font-size: 2.0rem;
     }
 
     
